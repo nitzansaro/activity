@@ -7,7 +7,7 @@
     android:layout_gravity="center"
     android:orientation="vertical"
     android:layout_weight="8"
-    tools:context="com.example.nitza.activity.Main2Activity">
+    tools:context="com.example.nitza.activity.Main2Activity"> 
 
 
     <TextView

@@ -15,7 +15,7 @@ Button g;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
         tv = findViewById(R.id.tv);
-        g = findViewById(R.id.g);
+        g = findViewById(R.id.g) ;
         tv.setText("Last result: " + getIntent().getExtras().getString("Nitzan"));
     }
 
